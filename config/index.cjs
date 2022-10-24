@@ -67,7 +67,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o5_pB5yVGQBZoZPbnYBzRJkIs9QE',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: 'Rk0LIR6wCPkdqb_OBTxKPOS2Y-nTs2can8PbSEuOpdw',
+      useTemplateId: 'rDUzIVdex-toVBCeJZUvYvHGt_d2E1gMMxZIzbXTpZQ',
       // 所在省份
       province: '吉林',
       // 所在城市
@@ -82,7 +82,7 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: 'mama', year: '1972', date: '03-04',
+          type: '*生日', name: '妈妈', year: '1972', date: '03-04',
         },
 
       ],
